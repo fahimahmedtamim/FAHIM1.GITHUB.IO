@@ -38,7 +38,7 @@
  background-color: gray;
 }
 
-body{background-image: url("../img/fahim.jpg");
+body{background-image: url("fahim.jpg");
   background-size: cover;
   :fixed;
 }
